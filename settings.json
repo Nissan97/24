@@ -8,7 +8,7 @@
   "server": {
     "ip": "LegendsGang.aternos.me",
     "port": 54620,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -42,8 +42,8 @@
     "max-reconnect-delay": 30,
     "periodic-rejoin": {
       "enabled": false,
-      "min-interval": 15,
-      "max-interval": 25
+      "min-interval": 10,
+      "max-interval": 20
     }
   },
   "movement": {
@@ -51,7 +51,7 @@
     "circle-walk": {
       "enabled": true,
       "radius": 4,
-      "speed": 3000
+      "speed": 500
     },
     "look-around": {
       "enabled": true,
@@ -59,7 +59,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 15000
     }
   },
   "modules": {
