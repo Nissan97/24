@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LegendsGang.aternos.me",
-    "port": 54620,
+    "ip": "legendsgangsmp.mcsh.io:25565",
+    "port": 25565,
     "version": "1.21.11",
     "try-creative": false
   },
