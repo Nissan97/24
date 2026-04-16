@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LegendsGangTest.aternos.me",
+    "ip": "duiker.aternos.host",
     "port": 17551,
     "version": "1.21.0",
     "try-creative": false
