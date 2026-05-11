@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "duiker.aternos.host",
-    "port": 17551,
-    "version": "1.21.0",
+    "ip": "legendsgang.playwithbao.com",
+    "port": 59228,
+    "version": "",
     "try-creative": false
   },
   "position": {
